@@ -3,7 +3,7 @@
 هذا المستودع للتحميل فقط: كل نسخة من تطبيق « ابتكار » (أندرويد) منشورة في **Releases**، بلا أي كود.
 
 **رابط آخر نسخة (لا يتغير):**
-https://github.com/EBTIKARWEB/app-mobile-crm/releases/latest/download/ibtikar.apk
+https://github.com/EBTIKARWEB/crm-app-mobile-/releases/latest/download/ibtikar.apk
 
 نفس الرابط على عنوان كل متجر: `https://<المتجر>/apk/ibtikar.apk`
 
